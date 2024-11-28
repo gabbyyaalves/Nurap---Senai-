@@ -1,0 +1,5 @@
+print('Olá, mundo!')     
+print('gaby')  
+print('Howden brasil')
+print('muito legal')
+print('to com fome')
